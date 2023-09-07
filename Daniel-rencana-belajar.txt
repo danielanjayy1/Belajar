@@ -2,3 +2,5 @@ Rencana belajar :
 -Python
 -Excel
 -Java Script 
+-Framework JS
+-Framework Tailwind
